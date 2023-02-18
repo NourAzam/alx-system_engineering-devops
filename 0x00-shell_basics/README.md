@@ -1,1 +1,1 @@
-no
+Some shell basics to learn :)
